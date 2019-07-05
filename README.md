@@ -50,7 +50,7 @@ ant design vue 踩坑记录
   />
  ```
  
- 日期选择器更多的配置
+ **日期选择器更多的配置**
  
   ```javascript
    locale:{       
